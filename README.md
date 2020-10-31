@@ -7,6 +7,8 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
 # nest-restaurant-api
 
 ## Description
@@ -33,21 +35,6 @@ Uses JWT, AuthO and passport to authorization.
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4"
-```
-  
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 ## License
 
