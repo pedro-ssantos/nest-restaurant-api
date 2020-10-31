@@ -16,9 +16,10 @@ Stores data in dynamic mem;
 Uses "class-validator" and "class-transform" to validate input form.
 Uses JWT, AuthO and passport to authorization.
 
-  source: [Developing a Secure API with NestJS](https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/?_ga=2.105622219.934537212.1604081434-2088793735.1604081433)
+  ### Source: [Developing a Secure API with NestJS](https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started/?_ga=2.105622219.934537212.1604081434-2088793735.1604081433)
   
-  ###Dependencies:
+  ### Dependencies:
+```bash
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0",
     "@nestjs/passport": "^7.1.0",
@@ -32,7 +33,7 @@ Uses JWT, AuthO and passport to authorization.
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4"
-  
+```
   
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
