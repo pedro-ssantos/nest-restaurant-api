@@ -7,6 +7,8 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
+# nest-restaurant-api
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
@@ -26,4 +28,4 @@ $ npm run start:prod
 ## License
 
   Nest is [MIT licensed](LICENSE).
-# nest-restaurant-api
+
